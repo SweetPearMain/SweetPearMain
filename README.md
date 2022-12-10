@@ -17,7 +17,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div id="header" align="center">
-  <img src="[https://i.gifer.com/81RG.mp4](https://i.gifer.com/fetch/w300-preview/46/46400cbacaf8eb1b36a89cdcd7da6740.gif)"/>
+  <img src="https://i.gifer.com/fetch/w300-preview/46/46400cbacaf8eb1b36a89cdcd7da6740.gif"/>
 </div>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
